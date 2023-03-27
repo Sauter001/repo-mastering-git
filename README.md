@@ -2,4 +2,4 @@
 mastering git
 
 **The file was edited!**
-* check *
+* check it out *
